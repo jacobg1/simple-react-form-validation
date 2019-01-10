@@ -1,7 +1,7 @@
 {
-  "name": "react-fancy-component",
+  "name": "simple-react-form-validation",
   "version": "0.0.1",
-  "description": "Put a description here",
+  "description": "Simple form validation for React",
   "main": "build/index.js",
   "peerDependencies": {
     "react": "^15.5.4"
