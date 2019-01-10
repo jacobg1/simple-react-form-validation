@@ -1,4 +1,4 @@
-# simple-react-form-validation
+# simple-react-form-validation (in progress)
 This will be a reusable form validation component for React and is designed to be included as a node module
 
 ## scripts
