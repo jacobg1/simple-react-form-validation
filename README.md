@@ -17,7 +17,7 @@ runs ```webpack``` which compiles code and dumps results into build folder
 ## lint
 ```npm run lint```
 runs ```eslint src/**/*.js``` and lints all files in src folder
-
+test
 
 ## instructions for local development
 in root level run ```npm link``` to link project to global node_modules
