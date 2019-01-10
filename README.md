@@ -19,7 +19,7 @@ runs ```webpack``` which compiles code and dumps results into build folder
 runs ```eslint src/**/*.js``` and lints all files in src folder
 
 
-### instructions for development and testing
+## instructions for development and testing
 in root level run ```npm link``` to link file to global node_modules
 
 create a new test project ex: ```npx create-react-app test-project``` 
