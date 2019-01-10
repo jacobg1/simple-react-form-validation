@@ -3,7 +3,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 
-class Fancy extends Component {
+class Validator extends Component {
     componentDidMount() {
         console.log('test')
     }
@@ -18,9 +18,9 @@ class Fancy extends Component {
         )
     }
 }
-export default Fancy
+export default Validator
 
-Fancy.propTypes = {
+Validator.propTypes = {
     type: PropTypes.string.isRequired,
     value: PropTypes.string.isRequired,
 }
